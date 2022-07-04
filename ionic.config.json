@@ -1,0 +1,7 @@
+{
+  "name": "WGuides",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
